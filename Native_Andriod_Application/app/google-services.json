@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "1041592665793",
+    "firebase_url": "https://native-android-application.firebaseio.com",
+    "project_id": "native-android-application",
+    "storage_bucket": "native-android-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041592665793:android:194e385c346c3d6eb23640",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041592665793-lermpi3p37eci6le6e2rent6r7f1muhs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "94b206f0687dc8d49960ff1691741ad2c1322ac1"
+          }
+        },
+        {
+          "client_id": "1041592665793-5vinlf6o9kpgd3fg9j9g09far3372c06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs_x9ovKlsYdCf3va3Y5y_vw9y6k99jUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041592665793-5vinlf6o9kpgd3fg9j9g09far3372c06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041592665793:android:e5d4430a6173e5b0",
+        "android_client_info": {
+          "package_name": "com.pureintensions.epc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041592665793-tkbd3dsr7ndka53b68skavqj8o6rp1bp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pureintensions.epc",
+            "certificate_hash": "94b206f0687dc8d49960ff1691741ad2c1322ac1"
+          }
+        },
+        {
+          "client_id": "1041592665793-2f71qdicn54i1rune3e2v5qjlqpfheds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pureintensions.epc",
+            "certificate_hash": "562d3d7e36c26b8cec14aa982bd411cae22e23cb"
+          }
+        },
+        {
+          "client_id": "1041592665793-5vinlf6o9kpgd3fg9j9g09far3372c06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs_x9ovKlsYdCf3va3Y5y_vw9y6k99jUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041592665793-5vinlf6o9kpgd3fg9j9g09far3372c06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
